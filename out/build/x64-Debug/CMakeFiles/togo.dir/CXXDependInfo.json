@@ -1,0 +1,45 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/togo.dir/modules/platform.ixx.obj" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/modules/platform.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug",
+	"dir-cur-src" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go",
+	"dir-top-bld" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug",
+	"dir-top-src" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\windows",
+		"C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\editor",
+		"C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\interface",
+		"C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\tracker"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug/CMakeFiles/togo.dir",
+	"sources" : 
+	{
+		"CMakeFiles/togo.dir/windows/togo.cc.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/windows/togo.cc"
+		}
+	}
+}

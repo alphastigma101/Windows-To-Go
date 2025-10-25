@@ -1,0 +1,5 @@
+C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug/CMakeFiles/togo.dir
+C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug/CMakeFiles/editor.dir
+C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug/CMakeFiles/WindowsToGo.dir
+C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

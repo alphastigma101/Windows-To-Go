@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+.vs/
+*.slnx
+*.user
+*.suo
+*.bin
+*.db
+*.opendb

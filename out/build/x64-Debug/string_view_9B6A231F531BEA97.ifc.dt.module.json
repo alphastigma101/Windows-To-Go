@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\out\\build\\x64-Debug\\string_view.ifc",
+            "outputs": [
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\vc140.pdb",
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\out\\build\\x64-Debug\\string_view_9B6A231F531BEA97.ifc.dt.module.json",
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\out\\build\\x64-Debug\\string_view_9B6A231F531BEA97.ifc.dt.d.json"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35710\\include\\string_view",
+                    "source-path": "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.50.35710\\include\\string_view",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

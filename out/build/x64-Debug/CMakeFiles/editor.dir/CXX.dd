@@ -1,0 +1,6 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\editor.dir\editor\editor.cc.obj: dyndep
+
+build CMakeFiles\editor.dir\modules\platform.ixx.obj | CMakeFiles\editor.dir\platform.ifc: dyndep
+  restat = 1
+

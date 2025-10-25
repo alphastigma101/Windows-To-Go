@@ -1,0 +1,25 @@
+{
+	"modules" : 
+	{
+		"platform" : 
+		{
+			"bmi" : "C:/Users/Dell 5490/source/repos/alphastigma101/Windows-To-Go/out/build/x64-Debug/CMakeFiles/togo.dir/platform.ifc",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"platform" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles\\togo.dir\\platform.ifc"
+		}
+	},
+	"usages" : 
+	{
+		"platform" : 
+		[
+			"string_view"
+		]
+	}
+}

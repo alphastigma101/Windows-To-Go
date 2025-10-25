@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\WindowsToGo.dir\\main.cc.obj",
+            "outputs": [
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\out\\build\\x64-Debug\\vc140.pdb",
+                "CMakeFiles\\WindowsToGo.dir\\main.cc.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"platform" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles\\editor.dir\\platform.ifc"
+		}
+	},
+	"usages" : 
+	{
+		"platform" : 
+		[
+			"string_view"
+		]
+	}
+}

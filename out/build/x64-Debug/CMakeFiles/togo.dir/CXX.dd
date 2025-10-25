@@ -1,0 +1,6 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\togo.dir\windows\togo.cc.obj: dyndep
+
+build CMakeFiles\togo.dir\modules\platform.ixx.obj | CMakeFiles\togo.dir\platform.ifc: dyndep
+  restat = 1
+

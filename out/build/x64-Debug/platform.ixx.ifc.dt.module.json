@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "platform.obj",
+            "outputs": [
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\vc140.pdb",
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\out\\build\\x64-Debug\\platform.ixx.ifc.dt.module.json",
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\out\\build\\x64-Debug\\platform.ixx.ifc.dt.d.json",
+                "C:\\Users\\Dell 5490\\source\\repos\\alphastigma101\\Windows-To-Go\\out\\build\\x64-Debug\\platform.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "platform",
+                    "source-path": "c:\\users\\dell 5490\\source\\repos\\alphastigma101\\windows-to-go\\modules\\platform.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "string_view",
+                    "source-path": "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.50.35710\\include\\string_view",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}
